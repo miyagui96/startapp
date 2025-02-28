@@ -1,0 +1,10 @@
+Anotações:
+
+Componentização -> reaproveitar códigos
+
+Android:   |   IoS:
+ViewGroup  |   UIView
+ImageView  |   UIImageView
+TextView   |   UITextView
+
+
